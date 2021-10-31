@@ -143,7 +143,7 @@ input, select, textarea {
 		color: #ffffff;
 		font-family: "Source Sans Pro", sans-serif;
 		font-weight: 300;
-		font-size: 1rem;
+		font-size: 1.2rem;
 		line-height: 1.65;
 	}
 
@@ -205,25 +205,25 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 1.5rem;
+		font-size: 1.8rem;
 		line-height: 1.4;
 		letter-spacing: 0.5rem;
 	}
 
 	h3 {
-		font-size: 1rem;
+		font-size: 1.2rem;
 	}
 
 	h4 {
-		font-size: 0.8rem;
+		font-size: 1rem;
 	}
 
 	h5 {
-		font-size: 0.7rem;
+		font-size: 0.8rem;
 	}
 
 	h6 {
-		font-size: 0.6rem;
+		font-size: 0.7rem;
 	}
 
 	@media screen and (max-width: 736px) {
@@ -234,7 +234,7 @@ input, select, textarea {
 		}
 
 		h2 {
-			font-size: 1.25em;
+			font-size: 1.40rem;
 			line-height: 1.5;
 		}
 
@@ -1299,7 +1299,7 @@ input, select, textarea {
 		}
 
 			#header .logo .icon:before {
-				font-size: 2rem;
+				font-size: 3rem;
 			}
 
 		#header .content {
@@ -1331,7 +1331,7 @@ input, select, textarea {
 			#header .content p {
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
-				font-size: 0.8rem;
+				font-size: 1rem;
 				line-height: 2;
 			}
 
@@ -1364,7 +1364,7 @@ input, select, textarea {
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
-					font-size: 0.8rem;
+					font-size: 1rem;
 					border-bottom: 0;
 				}
 
